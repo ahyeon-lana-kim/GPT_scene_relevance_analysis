@@ -21,22 +21,6 @@ The Scene Relevance Analysis tool is designed to:
 2. For each new scene, it assigns relevance scores to all preceding scenes
 3. Scores are presented in a matrix format
 
-## Requirements
-
-- Python 3.x
-- OpenAI API key
-- Required Python libraries (see `requirements.txt`)
-
-## Setup
-
-1. Clone this repository
-2. Install required libraries: `pip install -r requirements.txt`
-3. Set up your OpenAI API key (see Configuration section)
-
-## Configuration
-
-Store your OpenAI API key in a file named `openai.txt` in your home directory.
-
 ## Example
 
 ```python
