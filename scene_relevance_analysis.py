@@ -95,4 +95,3 @@ if __name__ == "__main__":
     
     matrix = generate_matrix(scenes)
     print_matrix(matrix)
-
