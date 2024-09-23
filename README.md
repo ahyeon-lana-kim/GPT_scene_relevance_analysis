@@ -39,3 +39,7 @@ for i, scene in enumerate(scenes, start=1):
         print(row)
     print()
 ```
+
+Compare2HumanMatrix.m runs permutation test to compare GPT4 matrix and human matrix 
+
+Compare2NeuralMatrix.m calculates correlation between GPT4 matrix and neural reactivation matrices 
